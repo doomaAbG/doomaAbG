@@ -5,7 +5,6 @@ C++ & Golang Developer
 - 🎓 Учусь на 4 курсе МТУСИ (Радиотехника)
 - 💻 Пишу бэкенд и сервисы на **C++** и **Go**
 - 🧠 Решаю алгоритмические задачи на [LeetCode](https://leetcode.com/u/Butche1/)
-- 📬 Связь со мной: [Telegram](https://t.me/Doomchikww) | [Email](mailto:rustam.valitow16@gmail.com)
 
 ---
 
@@ -16,6 +15,7 @@ C++ & Golang Developer
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ### 📊 Статистика профиля
@@ -24,3 +24,11 @@ C++ & Golang Developer
   <img src="https://github-readme-stats.vercel.app/api?username=doomaAbG&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomaAbG&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+### 📬 Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Doomchikww)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Butche1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:butche124as@gmail.com)
