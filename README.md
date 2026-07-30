@@ -16,3 +16,11 @@ C++ & Golang Developer
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### 📊 Статистика профиля
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doomaAbG&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doomaAbG&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
