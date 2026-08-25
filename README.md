@@ -13,15 +13,6 @@ C++ & Golang Developer
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 📊 Статистика профиля
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=doomaAbG&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=doomaAbG&layout=compact&theme=tokyonight)
----
-
 ### 📬 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Doomchikww)
